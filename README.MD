@@ -1,5 +1,6 @@
 #### Thanks
 * https://github.com/zanzhz1101/LingMaxDNS
+* https://www.right.com.cn/forum/thread-8137820-1-1.html
 * https://www.right.com.cn/forum/thread-8210921-1-1.html
 ```
 cd /path/to/LingMaxDNS
