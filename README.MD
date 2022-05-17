@@ -5,5 +5,5 @@
 ```
 cd /path/to/LingMaxDNS
 docker build -t lingmax-dns:1.0 .
-docker run -d --restart=always --name=dns -p 53:8287 lingmax-dns:1.0
+docker run -d --restart=always --name=dns -p 53:8287/udp lingmax-dns:1.0
 ```
